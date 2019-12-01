@@ -13,3 +13,4 @@
 *.out
 *.pem
 server
+node_modules
