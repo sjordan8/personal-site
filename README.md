@@ -1,6 +1,6 @@
-#Personal Server
+# Personal Server
 
-Available [here](sjordan.us)
+Available at sjordan.us
 
 Hosted on an Amazon EC2 instance running Ubuntu 18.04.
 
